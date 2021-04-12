@@ -7,7 +7,7 @@ run it in your terminal
 ## Collaboration
 Darren Watson
 ### Instructions
-undefined
+![demo](demo.gif / GIF)
 ## License
 The MIT License
 
